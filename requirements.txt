@@ -1,0 +1,14 @@
+streamlit
+opencv-python-headless
+deepface
+openai-whisper
+transformers
+torch
+torchaudio
+librosa
+spacy
+pandas
+numpy
+Pillow
+reportlab
+fpdf2
